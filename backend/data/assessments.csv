@@ -1,0 +1,6 @@
+assessment_id,assessment_name,description,skills,test_type,duration,recommended_roles,job_level
+1,Coding Challenge,"Evaluates programming logic and algorithmic skills using Python",Python; Algorithms,Technical,60,Software Engineer,Entry
+2,Communication Test,"Assesses verbal communication and fluency in English",English; Speaking,Soft Skill,30,Customer Support,Entry
+3,Leadership Simulation,"Simulates workplace scenarios to evaluate leadership and decision-making",Teamwork; Decision Making,Behavioral,45,Team Lead,Mid
+4,Data Analysis Test,"Tests proficiency in Excel and data interpretation for business insights",Excel; Data Interpretation,Technical,50,Data Analyst,Entry
+5,Advanced Coding Challenge,"Evaluates advanced coding and system design skills using Python",Python; System Design,Technical,90,Backend Developer,Mid
